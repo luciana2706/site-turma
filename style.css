@@ -1,11 +1,19 @@
+
+
 .cabecalho {
-    background-color: #424E61;
-    color: white;
+    background-color: dodgerblue;
+    color:white;
     display: flex;
     justify-content: space-around;
+    align-items: center;
 }
 
 .cabecalho-imagem{
     width: 20%;
+}
+
+.cabecalho-lista-item{
+    display: inline-block;
+    margin: 0 16px;
 
 }
